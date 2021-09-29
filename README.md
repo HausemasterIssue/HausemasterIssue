@@ -8,7 +8,7 @@ ign: HausemasterIssue
 
 status: owning
 
-things im working on: inferno, learning java™
+things im working on: inferno, spidersense, and learning java™
 
 ![2001773_BreakingGlass-Text_preview_ffc96c52](https://user-images.githubusercontent.com/90464553/133123802-019314b4-3d93-446b-ad4e-05378b933dac.gif)
 
