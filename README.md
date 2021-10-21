@@ -1,14 +1,16 @@
-welcome to my code dump, i am still learning java and pretty ass at coding.
+# welcome to my code dump
 
-i do hacks for block game
+i "make" insane hacks for block game, i copy and paste a lot. i am still learning java and am pretty ass at coding.
 
 contact: queueskip2b2t@gmail.com
 
 ign: HausemasterIssue
 
-status: owning
+things im working on: spidersense and learning java™
 
-things im working on: inferno, spidersense, and learning java™
+<img src="https://komarev.com/ghpvc/?username=hausemasterissue&color=brightgreen">
+
+*profile view count started on 21/10/2021*
 
 ![2001773_BreakingGlass-Text_preview_ffc96c52](https://user-images.githubusercontent.com/90464553/133123802-019314b4-3d93-446b-ad4e-05378b933dac.gif)
 
