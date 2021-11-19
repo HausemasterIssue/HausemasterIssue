@@ -6,7 +6,7 @@ contact: queueskip2b2t@gmail.com
 
 ign: HausemasterIssue
 
-things im working on: spidersense and learning java™
+things im working on: block game hacks and learning java™
 
 <img src="https://komarev.com/ghpvc/?username=hausemasterissue&color=brightgreen">
 
